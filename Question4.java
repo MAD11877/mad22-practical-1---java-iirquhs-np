@@ -18,7 +18,6 @@ public class Question4
      */
      
     Scanner in = new Scanner(System.in);
-    System.out.print("Enter integer to form triangle: ");
     int baseInt = in.nextInt();
 
     for (int i = baseInt; i > 0; i--) {
